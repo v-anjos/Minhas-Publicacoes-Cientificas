@@ -16,7 +16,7 @@ Bem-vindo(a) ao meu repositório de artigos! Aqui eu centralizo e organizo todas
 
 | Título do Artigo | Tema / Categoria | Onde foi Publicado | Link de Acesso |
 | :--- | :--- | :--- | :--- |
-| **INTELIGÊNCIA ARTIFICIAL GENERATIVA NO ENSINO DE ASTRONOMIA: CONTRIBUIÇÕES, LIMITAÇÕES E DESAFIOS PARA A ALFABETIZAÇÃO CIENTÍFICA NA EDUCAÇÃO BÁSICA** | Educação | 15º Congresso Científico da Semana Nacional de Ciência e Tecnologia do IFSP | [Ler Artigo]([https://medium.com](https://drive.google.com/drive/folders/1GmGDJVG6NRbj0XDYBw_ot5YGhXA0K-C8)) |
+| **INTELIGÊNCIA ARTIFICIAL GENERATIVA NO ENSINO DE ASTRONOMIA: CONTRIBUIÇÕES, LIMITAÇÕES E DESAFIOS PARA A ALFABETIZAÇÃO CIENTÍFICA NA EDUCAÇÃO BÁSICA** | Educação | 15º Congresso Científico da Semana Nacional de Ciência e Tecnologia do IFSP | [Ler Artigo]([https://medium.com](https://www.concistec.com.br/)) |
 ---
 
 ## Conceitos Abordados
