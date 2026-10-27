@@ -21,7 +21,7 @@ Bem-vindo(a) ao meu repositório de artigos! Aqui eu centralizo e organizo todas
 
 ## Conceitos Abordados
 
-| **Conceitos** | IA, Psicomotricidade, Pensamento Computacional, Aprendizagem Significativa  |
+| IA, Psicomotricidade, Pensamento Computacional, Aprendizagem Significativa  |
 
 ---
 
